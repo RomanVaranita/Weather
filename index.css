@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #weather-container {
+    margin-top: 50px;
+  }
+  
+  #temperature {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  #weather-icon {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+  }
+  
+  #weather-description {
+    font-size: 16px;
+  }
+  
